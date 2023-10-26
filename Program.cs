@@ -5,7 +5,7 @@ namespace EventDispatcher
 	class Program
 	{
 		static void Main() {
-			// The "server" object, sending out messages/events regularly.
+			// The "server" object, sending out messages/events regularly.dd
 			MessageTerminal terminal = new();
 
             // The "client" object, which will be subscribing to the server's event.
